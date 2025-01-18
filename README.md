@@ -1,3 +1,6 @@
+![bus lane detection](output/example.out.jpg)
+This repo demonstrates using instance segmentation to dynamically identify reserved vehicles lanes and offendant vehicles.
+
 # Usage
 
 ## Preparation
